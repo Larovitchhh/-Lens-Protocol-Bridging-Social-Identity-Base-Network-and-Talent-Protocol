@@ -1,2 +1,4 @@
 # -Lens-Protocol-Bridging-Social-Identity-Base-Network-and-Talent-Protocol
  Lens Protocol: Bridging Social Identity, Base Network, and Talent Protocol
+Lens Protocol is a decentralized social graph built by the team behind Aave, designed to empower users to own their digital identities and social connections. Unlike traditional social media platforms, Lens allows developers to build permissionless, modular social applications where users retain control over their data, content, and relationships. [zerion.io]
+Lens recently migrated from Polygon to its own Layer 2 chain built on zkSync’s ZK Stack, enabling scalable, low-cost, and censorship-resistant social interactions. This move positions Lens as a foundational infrastructure for SocialFi — the fusion of social media and decentralized finance. [blockworks.co]
